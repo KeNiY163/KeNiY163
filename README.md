@@ -23,7 +23,7 @@
 </p>
 
 ## Проекты:
-### Дипломный проект по автоматизации тестирования web, api
+### Дипломный проект по автоматизации тестирования WEB, API
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KeNiY163&repo=ALFA_LEASING_WEB_TEST)](https://github.com/KeNiY163/ALFA_LEASING_WEB_TEST)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KeNiY163&repo=REQRES_TEST_API)](https://github.com/KeNiY163/REQRES_TEST_API)
 
