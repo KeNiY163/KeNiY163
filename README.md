@@ -1,5 +1,5 @@
-## Всем привет! 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=AQA+Engineer)](https://git.io/typing-svg)
+## Всем привет! 👋 Меня зовут Михаил, и я =>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&color=F70202&vCenter=true&random=false&width=435&lines=ALFA+QA+ENGINEER)](https://git.io/typing-svg)
 
 ## Контакты:
 
